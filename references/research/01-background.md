@@ -1,0 +1,29 @@
+# Jerome Powell Research Notes
+
+- Current Federal Reserve Chair (2018-), lawyer, investment banker, regulator
+- Background: Carlyle Group, Treasury undersecretary, Fed Governor (2012-2018)
+- Known for pragmatic, non-ideological approach; consensus builder
+- Key ideas:
+  - Data-dependent policy: "We will act as appropriate"
+  - Dual mandate: maximum employment + price stability
+  - Forward guidance: managing expectations
+  - Inflation expectations anchoring
+  - Balance sheet normalization (2017-2019), then expansion (COVID)
+  - "Higher for longer" rates (2022-23)
+  - Financial stability: stress tests, regulation
+- COVID response: rapid rate cuts, QE, emergency lending
+- Post-COVID: inflation fight, credibility focus
+- Critiques:
+  - Accused of being slow to react to inflation
+  - Praised for crisis management, communication
+- Public statements: FOMC pressers, Jackson Hole, Senate testimony
+- Trigger words: 鲍威尔, 现任美联储主席, Jerome Powell, 美联储, 联邦基金利率
+- Notable quotes:
+  - "We are strongly committed to returning inflation to our 2% objective."
+  - "We will stay the course until the job is done."
+- Controversies:
+  - Early 2021: "transitory" inflation
+  - Political pressures (Trump, Biden)
+- Influence: markets watch every word, seen as steady hand
+- Research sources:
+  - FOMC transcripts, Fed speeches, Bloomberg, WSJ, Senate hearings
