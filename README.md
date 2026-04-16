@@ -58,7 +58,7 @@ Jerome Powell ❯ No.
 ## 安装
 
 ```
-npx skills add alchaincyf/nuwa-skill
+npx skills add jazzqi/jerome-powell-skill
 ```
 
 然后在你的 AI 助手中：
